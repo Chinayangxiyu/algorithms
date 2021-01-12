@@ -13,11 +13,12 @@ public class leetcode547 {
 
     public static void main(String[] args){
 
-        leetcode547 l = new leetcode547();
 
-        int[][] array = new int[][]{{1, 0,0}, {0,1, 0}, {0,0, 1}};
-
-        System.out.println(l.findCircleNum(array));
+//        leetcode547 l = new leetcode547();
+//
+//        int[][] array = new int[][]{{1, 0,0}, {0,1, 0}, {0,0, 1}};
+//
+//        System.out.println(l.findCircleNum(array));
     }
 
     /**
