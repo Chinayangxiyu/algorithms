@@ -1,4 +1,4 @@
-package com.yu.algorithms.day;
+package com.yu.algorithms.alibaba;
 
 /**
  * TODO

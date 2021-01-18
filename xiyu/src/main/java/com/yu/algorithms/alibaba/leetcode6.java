@@ -1,4 +1,4 @@
-package com.yu.algorithms.day;
+package com.yu.algorithms.alibaba;
 
 import java.util.ArrayList;
 import java.util.List;

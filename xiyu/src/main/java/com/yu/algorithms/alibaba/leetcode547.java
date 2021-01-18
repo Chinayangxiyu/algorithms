@@ -1,6 +1,4 @@
-package com.yu.algorithms.day;
-
-import com.yu.algorithms.dynamic.leetcode63;
+package com.yu.algorithms.alibaba;
 
 /**
  * 每日打卡

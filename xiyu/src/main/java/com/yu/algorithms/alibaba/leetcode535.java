@@ -1,8 +1,5 @@
-package com.yu.algorithms.day;
+package com.yu.algorithms.alibaba;
 
-import sun.security.provider.MD5;
-
-import java.security.MessageDigest;
 import java.util.*;
 
 /**
